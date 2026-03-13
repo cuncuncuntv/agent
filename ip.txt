@@ -1,1 +1,2 @@
-tcp://0.tcp.ap.ngrok.io:17824
+0.tcp.ap.ngrok.io:17824
+
